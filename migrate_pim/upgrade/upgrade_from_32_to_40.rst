@@ -85,9 +85,19 @@ Load your PIM Enterprise 4.0 dependencies
 Let Akeneo PIM 4.0 continue the preparation for you
 ***************************************************
 
+Enterprise Edition
+^^^^^^^^^^^^^^^^^
+
 .. code:: bash
 
     $ vendor/akeneo/pim-enterprise-dev/std-build/migration/prepare_32_to_40.sh
+
+Community Edition
+^^^^^^^^^^^^^^^^^
+
+.. code:: bash
+
+    $ vendor/akeneo/pim-community-dev/std-build/migration/prepare_32_to_40.sh
 
 
 .. note::
